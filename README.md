@@ -175,6 +175,10 @@ Sau khi đọc:
 ### Ảnh 14
 ![Ảnh 14](images/14.png)
 
+![Ảnh 26](images/26.png)
+
+![Ảnh 27](images/27.png)
+
 ---
 
 # 4. Xây dựng APP2 bằng Android Studio
@@ -196,10 +200,6 @@ Màn hình gồm:
 
 ### Ảnh 16
 ![Ảnh 16](images/16.png)
-
-![Ảnh 26](images/26.png)
-
-![Ảnh 27](images/27.png)
 
 ---
 
