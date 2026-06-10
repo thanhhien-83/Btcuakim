@@ -2,8 +2,8 @@
 ## MÔN: PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG - TEE0419
 
 ## Thông tin sinh viên
-- **Họ và tên:** Phạm Linh  
-- **Mã sinh viên:** K225480106102  
+- **Họ và tên:** Nguyễn Thị Kim Huệ
+- **Mã sinh viên:** K225480106026 
 
 ---
 
